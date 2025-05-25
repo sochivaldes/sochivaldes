@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👩‍💻 About Me
 
-<!--
-**sochivaldes/sochivaldes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a Cuban professional with a unique combination of skills that blend information science, technology, creativity, and entrepreneurship.
 
-Here are some ideas to get you started:
+I hold degrees in both Library Science and Information Technology, and I’ve worked across different fields that reflect my passion for structure, learning, and innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **Librarian by training**, I understand how to organize knowledge and make information accessible.  
+🖥️ **Certified IT Technician**, experienced with digital tools and workflows.  
+💅 **Entrepreneur**, running my own manicure business with attention to detail and client care.  
+📱 **Digital Marketer**, currently managing social media and marketing strategies for several businesses in Suriname.
+
+I enjoy learning new things, helping others grow their ideas, and creating content that connects.  
+Let’s build, share, and grow together!
+
+---
+
+📍Based in Suriname | 🇨🇺 Born in Cuba  
+📧 Feel free to connect!
